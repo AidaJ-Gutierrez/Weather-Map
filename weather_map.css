@@ -1,0 +1,51 @@
+/* Apply a 'dark background' */
+
+/*color-palette*/
+
+/*
+
+#046582,
+#F6C065,
+#355C7D,
+#155263,
+#155263,
+558776
+
+*/
+
+html body{
+    background-color:#22577E;
+}
+.navbar{
+    background-color: #5584AC;
+}
+h1, h2{
+    font-family: Helvetica, serif;
+    font-weight: bold;
+    color: #E6E6E6;
+
+}
+
+h4, h5{
+    color:#22577E;
+}
+.card{
+    background-color:  #E6E6E6;
+}
+#map{
+    width: 900px;
+    height: 460px;
+
+    border: 2px solid #011F3F;
+}
+
+.weatherInfo{
+    /*border: 2px solid #011F3F;*/
+    border-radius: 10px;
+    color:#0B409C;
+}
+
+.img-fluid{
+    width: 100px;
+    height: 100px;
+}
